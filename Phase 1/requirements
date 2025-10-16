@@ -1,0 +1,6 @@
+streamlit
+pyngrok
+google-cloud-aiplatform
+langchain
+langchain-google-vertexai
+protobuf>=6.31.1,<7.0.0

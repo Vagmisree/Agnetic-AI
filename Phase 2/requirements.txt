@@ -1,0 +1,10 @@
+
+streamlit
+pyngrok
+folium
+streamlit-folium
+langchain
+langchain-google-genai
+google-genai
+python-dotenv
+streamlit-aggrid

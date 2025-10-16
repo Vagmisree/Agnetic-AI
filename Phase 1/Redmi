@@ -1,0 +1,15 @@
+# CampusRoute Phase 1 - Chatbot
+
+## Objective
+Implement a basic AI-powered chatbot to provide real-time bus information for students and parents.
+
+## Features
+- Google Vertex AI (Gemini LLM) integration
+- Text-based query interface
+- Real-time bus status, ETA, and schedule info
+- Incident reporting (bus delays, breakdowns)
+- Streamlit interface with ngrok tunneling for public access
+
+## Installation
+```bash
+pip install -r requirements.txt

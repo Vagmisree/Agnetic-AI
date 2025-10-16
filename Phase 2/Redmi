@@ -1,0 +1,16 @@
+# CampusRoute Phase 2
+
+This is Phase 2 of the CampusRoute project – a Smart College Transport Demo.  
+It includes:
+
+- Streamlit frontend for students/parents and admin
+- Live bus map simulation
+- Chatbot using Google Gemini (RAG-like behavior)
+- Data-driven routing & payment info
+- Admin dashboard for monitoring and updating bus statuses
+
+## Setup
+
+1. Install dependencies:
+```bash
+pip install -r requirements.txt

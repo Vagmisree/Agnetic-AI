@@ -1,0 +1,9 @@
+streamlit
+pyngrok
+folium
+streamlit-folium
+google-genai
+python-dotenv
+streamlit-aggrid
+scikit-learn
+pandas

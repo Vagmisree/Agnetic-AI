@@ -1,0 +1,15 @@
+[
+  {"TaskID": "T001", "RobotID": "R07", "Shelf": "S04", "Status": "Completed", "TimeTaken": 4},
+  {"TaskID": "T002", "RobotID": "R01", "Shelf": "S02", "Status": "InProgress", "TimeTaken": 2},
+  {"TaskID": "T003", "RobotID": "R05", "Shelf": "S05", "Status": "Queued", "TimeTaken": 0},
+  {"TaskID": "T004", "RobotID": "R03", "Shelf": "S09", "Status": "Completed", "TimeTaken": 6},
+  {"TaskID": "T005", "RobotID": "R02", "Shelf": "S13", "Status": "InProgress", "TimeTaken": 3},
+  {"TaskID": "T006", "RobotID": "R04", "Shelf": "S10", "Status": "Completed", "TimeTaken": 5},
+  {"TaskID": "T007", "RobotID": "R08", "Shelf": "S03", "Status": "Queued", "TimeTaken": 0},
+  {"TaskID": "T008", "RobotID": "R06", "Shelf": "S14", "Status": "InProgress", "TimeTaken": 3},
+  {"TaskID": "T009", "RobotID": "R07", "Shelf": "S07", "Status": "Completed", "TimeTaken": 7},
+  {"TaskID": "T010", "RobotID": "R02", "Shelf": "S01", "Status": "Completed", "TimeTaken": 5},
+  {"TaskID": "T011", "RobotID": "R05", "Shelf": "S06", "Status": "Queued", "TimeTaken": 0},
+  {"TaskID": "T012", "RobotID": "R03", "Shelf": "S11", "Status": "Completed", "TimeTaken": 6},
+  {"TaskID": "T013", "RobotID": "R01", "Shelf": "S15", "Status": "Completed", "TimeTaken": 4}
+]

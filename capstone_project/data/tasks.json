@@ -1,0 +1,15 @@
+[
+  {"TaskID": "T001", "Item": "Colgate_Paste", "Shelf": "S04", "Quantity": 10, "Priority": "High", "Deadline": "2025-10-17T17:00:00"},
+  {"TaskID": "T002", "Item": "Dove_Soap", "Shelf": "S02", "Quantity": 8, "Priority": "High", "Deadline": "2025-10-17T18:00:00"},
+  {"TaskID": "T003", "Item": "Dettol", "Shelf": "S05", "Quantity": 5, "Priority": "Medium", "Deadline": "2025-10-17T19:00:00"},
+  {"TaskID": "T004", "Item": "ParleG_Biscuits", "Shelf": "S09", "Quantity": 15, "Priority": "High", "Deadline": "2025-10-17T20:00:00"},
+  {"TaskID": "T005", "Item": "Oreo", "Shelf": "S13", "Quantity": 12, "Priority": "Critical", "Deadline": "2025-10-17T21:00:00"},
+  {"TaskID": "T006", "Item": "Lays", "Shelf": "S10", "Quantity": 7, "Priority": "Medium", "Deadline": "2025-10-18T08:00:00"},
+  {"TaskID": "T007", "Item": "RedBull", "Shelf": "S03", "Quantity": 5, "Priority": "Low", "Deadline": "2025-10-18T10:00:00"},
+  {"TaskID": "T008", "Item": "Pepsi", "Shelf": "S14", "Quantity": 6, "Priority": "Medium", "Deadline": "2025-10-18T11:00:00"},
+  {"TaskID": "T009", "Item": "Maggie", "Shelf": "S07", "Quantity": 10, "Priority": "High", "Deadline": "2025-10-18T12:00:00"},
+  {"TaskID": "T010", "Item": "Boost", "Shelf": "S01", "Quantity": 9, "Priority": "High", "Deadline": "2025-10-18T13:00:00"},
+  {"TaskID": "T011", "Item": "KitKat", "Shelf": "S06", "Quantity": 6, "Priority": "Low", "Deadline": "2025-10-18T14:00:00"},
+  {"TaskID": "T012", "Item": "Himalaya_Shampoo", "Shelf": "S11", "Quantity": 10, "Priority": "High", "Deadline": "2025-10-18T15:00:00"},
+  {"TaskID": "T013", "Item": "Surf_Excel", "Shelf": "S15", "Quantity": 5, "Priority": "Medium", "Deadline": "2025-10-18T16:00:00"}
+]

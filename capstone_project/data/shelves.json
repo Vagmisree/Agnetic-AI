@@ -1,0 +1,17 @@
+[
+  {"ShelfID": "S01", "Position": [2, 4], "Stock": 10, "Max": 50, "ReorderPoint": 8},
+  {"ShelfID": "S02", "Position": [3, 7], "Stock": 6, "Max": 50, "ReorderPoint": 10},
+  {"ShelfID": "S03", "Position": [4, 1], "Stock": 40, "Max": 50, "ReorderPoint": 10},
+  {"ShelfID": "S04", "Position": [5, 5], "Stock": 2, "Max": 50, "ReorderPoint": 8},
+  {"ShelfID": "S05", "Position": [7, 2], "Stock": 4, "Max": 50, "ReorderPoint": 7},
+  {"ShelfID": "S06", "Position": [8, 6], "Stock": 22, "Max": 50, "ReorderPoint": 10},
+  {"ShelfID": "S07", "Position": [6, 3], "Stock": 9, "Max": 50, "ReorderPoint": 8},
+  {"ShelfID": "S08", "Position": [9, 1], "Stock": 48, "Max": 50, "ReorderPoint": 10},
+  {"ShelfID": "S09", "Position": [1, 5], "Stock": 5, "Max": 50, "ReorderPoint": 8},
+  {"ShelfID": "S10", "Position": [2, 8], "Stock": 20, "Max": 50, "ReorderPoint": 10},
+  {"ShelfID": "S11", "Position": [4, 9], "Stock": 3, "Max": 50, "ReorderPoint": 8},
+  {"ShelfID": "S12", "Position": [7, 5], "Stock": 15, "Max": 50, "ReorderPoint": 8},
+  {"ShelfID": "S13", "Position": [8, 4], "Stock": 0, "Max": 50, "ReorderPoint": 10},
+  {"ShelfID": "S14", "Position": [9, 8], "Stock": 11, "Max": 50, "ReorderPoint": 8},
+  {"ShelfID": "S15", "Position": [3, 2], "Stock": 8, "Max": 50, "ReorderPoint": 7}
+]

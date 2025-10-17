@@ -1,0 +1,10 @@
+[
+  {"RobotID": "R01", "Position": [0, 0], "BatteryLevel": 92, "Status": "Active"},
+  {"RobotID": "R02", "Position": [2, 2], "BatteryLevel": 81, "Status": "Active"},
+  {"RobotID": "R03", "Position": [4, 1], "BatteryLevel": 65, "Status": "Charging"},
+  {"RobotID": "R04", "Position": [8, 3], "BatteryLevel": 77, "Status": "Active"},
+  {"RobotID": "R05", "Position": [9, 6], "BatteryLevel": 54, "Status": "Idle"},
+  {"RobotID": "R06", "Position": [3, 8], "BatteryLevel": 99, "Status": "Active"},
+  {"RobotID": "R07", "Position": [7, 9], "BatteryLevel": 83, "Status": "Busy"},
+  {"RobotID": "R08", "Position": [1, 4], "BatteryLevel": 60, "Status": "Idle"}
+]
